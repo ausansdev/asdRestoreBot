@@ -1,7 +1,9 @@
-## asdRestoreBot
+# asdRestoreBot
 ### A simple discord python bot that makes server backups
 
-# Installation
+** **
+
+## Installation
  1. Download the bot [source code](https://github.com/ausansdev/asdRestoreBot/archive/refs/heads/main.zip).
  2. Unzip archive
  3. Install the libraries with this command: `pip install uuid os json discord.py requests`
