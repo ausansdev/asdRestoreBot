@@ -10,3 +10,4 @@ A simple discord python bot that makes server backups
 
 
 Backups are located in `src/backups`.
+If u want to translate bot messages, then go to the `src/translation.py` file
