@@ -1,2 +1,2 @@
 TOKEN = ""
-DELETE_CHANNELS_ROLES_ETC = True # switcher dont work (i think)
+DELETE_CHANNELS_ROLES_ETC = True # switcher doesn't work (i think,..)
